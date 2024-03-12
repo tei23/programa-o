@@ -29,3 +29,18 @@ em{
     background-color: #cccccc;
     padding: 30px;
 }
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.beneficios{
+background-color: white;
+    padding: 20px;
+}
+
+.img-beneficios{
+    width: 50%;
+}
