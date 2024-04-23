@@ -96,14 +96,32 @@ nav li{
    font-size: 20px;
    margin-bottom: 10px;
  }
+
  .input-padrao{
    display: block;
    margin-bottom: 20px;
    padding: 10px 25px;
    width: 50%;
-
  }
 
  .checkbox{
    margin: 20px 0;
+ }
+
+ .enviar{
+   width: 40%;
+   padding: 15px 0;
+   background: black;
+   color: white;
+   font-weight: bold;
+   font-size: 18px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+   transition: 1s all;
+ }
+
+ .enviar:hover{
+   background-color: rgb(41, 1, 41);
+   transform: scale(1.2);
  }
