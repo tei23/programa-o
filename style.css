@@ -125,3 +125,21 @@ nav li{
    background-color: rgb(41, 1, 41);
    transform: scale(1.2);
  }
+
+  table{
+
+      margin: 20px 0 20px;
+  }
+
+  thead{
+    margin-left: 200px;
+    background-color: #555555;
+    color: white;
+    font-weight: bold;
+  }
+
+  td, tr{
+    border: 1px solid black;
+    padding: 8px 15px;
+
+  }
